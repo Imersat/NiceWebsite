@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+img {
+  width: 20%;
+}
+
+h1 {
+  color: white;
+  background-color: grey;
+}
+
+p {
+  color: white;
+  background-color: grey;
+}
+body {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/5196db60494431.5a4ee5c65c1c4.jpg");
+}
